@@ -57,6 +57,3 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ## 📝 License
 This project is licensed under the MIT License.
-
-## 💖 Thanks Message
-We appreciate your interest in the Fake News Detection System! This project is designed to help combat the spread of misinformation, and we're grateful for your support.
